@@ -8,4 +8,5 @@ Training module repository
 1. Learn GitHub
 2. Place on resume
 3. I created a list!
-> This is the next line.
+
+This is the next line.
