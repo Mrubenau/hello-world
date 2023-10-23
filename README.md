@@ -8,5 +8,4 @@ Training module repository
 1. Learn GitHub
 2. Place on resume
 3. I created a list!
-This is the next line
-==I am going to highlight this sentence==.
+> This is the next line.
