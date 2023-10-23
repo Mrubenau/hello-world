@@ -9,4 +9,4 @@ Training module repository
 2. Place on resume
 3. I created a list!
 This is the next line
-==I am going to highlight this sentence.==
+==I am going to highlight this sentence==.
